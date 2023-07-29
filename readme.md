@@ -3,6 +3,8 @@ I cloned the QMK repo and then added my own keymap.
 
 To flash the keyboard, run `qmk flash -km bobrown101`
 
+The custom keymap can be found here https://github.com/bobrown101/tidbit-keyboard-qmk/tree/main/keyboards/nullbitsco/tidbit/keymaps/bobrown101
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
