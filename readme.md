@@ -1,3 +1,8 @@
+# Bradys QMK setup for his tidbit keyboard
+I cloned the QMK repo and then added my own keymap.
+
+To flash the keyboard, run `qmk flash -km bobrown101`
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
